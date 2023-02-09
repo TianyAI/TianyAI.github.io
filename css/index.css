@@ -2279,7 +2279,7 @@ figure.highlight pre .javascript .function {
 }
 
 .article-sort-item-title:hover {
-  color: #49b1f5;
+  color: #00c4b6;
   -webkit-transform: translateX(10px);
   -moz-transform: translateX(10px);
   -o-transform: translateX(10px);
@@ -2323,7 +2323,7 @@ figure.highlight pre .javascript .function {
 }
 
 .category-lists .category-list a:hover {
-  color: #49b1f5;
+  color: #00c4b6;
 }
 
 .category-lists .category-list .category-list-count {
@@ -2801,8 +2801,7 @@ figure.highlight pre .javascript .function {
 }
 
 #recent-posts>.recent-post-item>.recent-post-info>.article-meta-wrap a:hover {
-  color: #49b1f5;
-  text-decoration: underline;
+  color: #00c4b6;
 }
 
 #recent-posts>.recent-post-item>.recent-post-info>.content {
@@ -2965,7 +2964,7 @@ h1.page-title+.tag-cloud-list {
 }
 
 #aside-content .card-tag-cloud a:hover {
-  color: #49b1f5 !important;
+  color: #00c4b6 !important;
 }
 
 #aside-content .aside-list>span {
