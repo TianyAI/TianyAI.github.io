@@ -283,6 +283,10 @@ h6::before {
     border: 1px solid #39c5bb;
 }
 
+#recent-posts>.recent-post-item>.recent-post-info>.article-title:hover {
+    color: #39c5bb;
+}
+
 /* 首页侧栏卡片 */
 #aside-content .card-widget {
     background: var(--trans-light);
