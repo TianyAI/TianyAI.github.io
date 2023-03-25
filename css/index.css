@@ -4066,7 +4066,7 @@ h1.page-title+.tag-cloud-list {
 }
 
 #post-info #post-meta a:hover {
-  color: #49b1f5;
+  color: #00c4b6;
   text-decoration: underline;
 }
 
@@ -4794,7 +4794,7 @@ h1.page-title+.tag-cloud-list {
   position: absolute;
   top: 2px;
   right: 12px;
-  color: #49b1f5;
+  color: #00c4b6;
   content: '\f1f9';
   font-size: 1.3em;
 }
